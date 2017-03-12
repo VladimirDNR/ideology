@@ -15,5 +15,3 @@
 *.ods diff=odf
 *.odt diff=odf
 *.odp diff=odf
-
-В данном проекте последний шаг уже сделан.
